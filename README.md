@@ -354,17 +354,17 @@ pipeline {
 
 Mientras se está ejecutando podemos ver el progreso.
 
-7. Cuando finaliza vemos como los todos los `stages` **Clonar repositorio**, **verificar contenido** y **compilar con maven** se han realizado correctamente.
+5. Cuando finaliza vemos como los todos los `stages` **Clonar repositorio**, **verificar contenido** y **compilar con maven** se han realizado correctamente.
 
 ![](img/32.png)
 
 Una vez compilado el proyecto se tiene que haber generado nuestra aplicación .jar en java.
 
-8.  Vamos a inspeccionar los archivos en nuestro área de trabajo: **StoreAPP-PPSvjp -> nº Build -> Workspace**:
+6.  Vamos a inspeccionar los archivos en nuestro área de trabajo: **StoreAPP-PPSvjp -> nº Build -> Workspace**:
 
 ![](img/33.png)
 
-9. **Pulsamos en el enlace** del directorio de trabajo.
+7. **Pulsamos en el enlace** del directorio de trabajo.
 
 ![](img/34.png)
 
